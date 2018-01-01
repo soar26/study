@@ -29,3 +29,16 @@ SSH -第一次初始化+初始化数据
 5.git push
 问题2、本地仓储和远程不同步，如何办?
  git pull --rebase origin master
+问题3，分支？
+git branch
+git branch dev_test
+git checkout dev_test
+git checkout master
+git merge --no-ff dev_test
+问题4，冲突？
+git diff
+问题5，回退？
+git log
+git reset --hard XXX对应版本号
+问题6，帮助？
+git help
