@@ -14,7 +14,10 @@ SSH -第一次初始化+初始化数据
 
 复制
  git clone https://github.com/soar26/study.git
+ git clone git@github.com:soar26/study.git
 
 生成密钥
  ssh-keygen
+
+111
 
