@@ -42,3 +42,9 @@ git log
 git reset --hard XXX对应版本号
 问题6，帮助？
 git help
+问题7， egit ssh提交 https提交？
+egit https提交不需要公钥和私钥
+egit ssh提交需要公钥和私钥
+问题8，egit ssh配置?
+ssh2:Generate RSA Key->Export Via SFTP(git@github.com)->Load Existing Key->save->Apply close
+git:(1)Committing 第一项去掉对勾；（2）Configuration,User Setting添加用户名和邮箱
